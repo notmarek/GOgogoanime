@@ -1,4 +1,4 @@
-! ?-?-?!?1 GOgogoanyime
+# ?-?-?!?1 GOgogoanyime
 
 Since you awe h-h-hewe you awe pwobabwy wondewing how the x3 fuck do you wun this??
 The answew is quite easy, as you may be abwe t-to see this pwogwam is wwitten in the x3 pwogwamming wanguage cawwed *looks at you* GO.
