@@ -21,7 +21,7 @@ func main() {
 		i := 0
 		for {
 			i++
-			episode_page := get_url("https://gogoanime.pe/" + anime_id + "-" + fmt.Sprint(i))
+			episode_page := get_url("https://gogoanime.pe/" + anime_id + "-episode-" + fmt.Sprint(i))
 			if strings.Contains(episode_page, ">404</h1>") {
 				break
 			}
